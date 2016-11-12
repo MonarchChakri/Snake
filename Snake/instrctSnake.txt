@@ -1,0 +1,13 @@
+==Instructions==
+
+1. The main aim of the game is to play with a snake by making it move on the grid; 
+
+2. Don't run the snake into his own tail: you die;
+
+3. Use your keys: w, s, a, and d;
+
+4. Eat the Fruits to gain points;
+
+5. Higher (and faster) play levels award more points;
+
+ 
